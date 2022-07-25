@@ -1,0 +1,2 @@
+# Treasure map program for hiding your precious treasure. 
+# Enter two digits(column number, row number - ORDER IS IMPORTANT !!!) one after another, e.g. "11" and program will hide the treasure in appropriate place.
